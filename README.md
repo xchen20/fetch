@@ -28,8 +28,8 @@ A Micronaut-based backend service that processes retail receipts and awards poin
 ## 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/fetch-receipt-processor.git
-cd fetch-receipt-processor
+git clone https://github.com/xchen20/fetch
+cd fetch
 ```
 
 ---
